@@ -18,3 +18,7 @@ aside{
     flex: 1;
     overflow-y: auto;
 }
+
+h1{
+    color: darkorange;
+}
